@@ -20,19 +20,19 @@ include "inc/header.php";?>
     <div class="list-group list-group-flush">
         <a href="addition.php" class="list-group-item list-group-item-dark list-group-item-action">
           <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1">Tek Basamaklı Toplama İşlemleri</h5>
+            <h5 class="mb-1">Toplama İşlemleri</h5>
           </div>
           <p class="mb-1">Örnekler -> 9+4=??, 6+2=?</p>
         </a>
         <a href="subtraction.php" class="list-group-item list-group-item-dark list-group-item-action">
             <div class="d-flex w-100 justify-content-between">
-              <h5 class="mb-1">Tek Basamaklı Çıkarma İşlemleri</h5>
+              <h5 class="mb-1">Çıkarma İşlemleri</h5>
             </div>
             <p class="mb-1">Örnekler -> 9-4=?, 6*2=?</p>
           </a>
           <a href="multiplication.php" class="list-group-item list-group-item-dark list-group-item-action">
             <div class="d-flex w-100 justify-content-between">
-              <h5 class="mb-1 cen">Tek Basamaklı Çarpma İşlemleri</h5>
+              <h5 class="mb-1 cen">Çarpma İşlemleri</h5>
             </div>
             <p class="mb-1">Örnekler -> 9*4=??, 6*2=??</p>
           </a>
