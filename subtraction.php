@@ -68,7 +68,10 @@ include "inc/header.php";?>
       }
       else{
         console.log("YANLISS");
-        if(current_progress<=40){
+        if(current_progress<=0){
+          current_progress==0;
+        }
+        else if(current_progress<=40){
           currentProgress(-3);
         }
         else if(current_progress<=70){
