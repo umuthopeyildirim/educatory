@@ -1,6 +1,6 @@
 <footer class="mastfoot mt-auto">
     <div class="inner">
-      <p>Bir Noel Cinleri Prodüksiyonu... Developers &#9749; Hope:<a href="https://www.instagram.com/umuthopeyildirim/">@umuthopeyildirim</a> & zmirac:<a href="https://www.instagram.com/zmiracc/">@zmiracc</a>.</p>
+      <p>Bir Noel Cinleri Prodüksiyonu... Developers &#9749; Hope:<a href="https://www.instagram.com/umuthopeyildirim/">@umuthopeyildirim</a> & mirach:<a href="https://www.instagram.com/zmiracc/">@mirach</a>.</p>
     </div>
   </footer>
 </div>
