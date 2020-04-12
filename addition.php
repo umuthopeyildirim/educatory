@@ -17,7 +17,7 @@ include "inc/header.php";?>
 
   <h5>İlerleme</h5>
   <div class="progress">
-    <div id="dynamic" class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+    <div id="dynamic" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
       <span id="current-progress"></span>
     </div>
   </div>
@@ -87,6 +87,15 @@ include "inc/header.php";?>
         generateQuestion();
       }
     }
+
+    anwser.addEventListener("keyup", function(event) {
+      if (event.keyCode === 13) {
+        event.preventDefault();
+        console.log("fuck why")
+        solve();
+      }
+    });
+
     var current_progress = 0;
     function currentProgress(change){
        current_progress += change;

@@ -158,3 +158,11 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
     color: white;
   }
+
+  .progress {
+    height: 5px;
+  }
+  .progress-bar {
+    background: rgb(24,236,22);
+    background: linear-gradient(90deg, rgba(24,236,22,1) 0%, rgba(201,142,5,1) 70%, rgba(255,44,0,1) 100%);
+  }

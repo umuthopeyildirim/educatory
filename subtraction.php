@@ -87,6 +87,15 @@ include "inc/header.php";?>
         generateQuestion();
       }
     }
+
+    anwser.addEventListener("keyup", function(event) {
+      if (event.keyCode === 13) {
+        event.preventDefault();
+        console.log("fuck why")
+        solve();
+      }
+    });
+    
     var current_progress = 0;
     function currentProgress(change){
        current_progress += change;
