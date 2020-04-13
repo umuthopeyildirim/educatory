@@ -20,7 +20,7 @@ include "inc/header.php";?>
             <div class="card-body">
                 <h5>Umut Hope YILDIRIM HopeSweaty</h5>
                 <p class="card-text black-text">3 yıl boyunca python, PHP ve C# ile çalıştım. Şimdi kendimi mobil geliştirme ve Yapay Zeka için geliştirmek istiyorum.
-                Educatory’de [yardım ettiğim yerleri yazı yaz].</p>
+                Educatory web sitesinde backend ve server ayarlarını yaptım, proje raporu ve slaytı yaptım.</p>
                 <a href="https://www.facebook.com/umuthopeyildirim" class="fa fa-facebook"></a>
                 <a href="https://twitter.com/HopeYildirim" class="fa fa-twitter"></a>
                 <a href="https://www.instagram.com/umuthopeyildirim/" class="fa fa-instagram"></a>
@@ -31,7 +31,7 @@ include "inc/header.php";?>
             <div class="card-body">
                 <h5>Miraç Mustafa ORAN <br>Mirach</h5>
                 <p class="card-text black-text">1.5 yıl boyunca ASP.NET ve C# kullandım.Şimdi ise Kiren Yazılım bünyesinde Web Developer olarak çalışıyorum. 
-                Educatory’de [yardım ettiğim yerleri yazı yaz].</p>
+                Educatory web sitesinin frontend kısmını yaptım, videoyu hazırladım.</p>
                 <a href="https://twitter.com/mirac_oran" class="fa fa-twitter"></a>
                 <a href="https://www.instagram.com/zmiracc/" class="fa fa-instagram"></a>
             </div>
